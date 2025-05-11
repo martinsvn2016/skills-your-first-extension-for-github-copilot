@@ -8,7 +8,7 @@
   "portsAttributes": {
     "3000": {
       "label": "copilot-extension-service",
-      "onAutoForward": "silent",
+      "onAutoForward": "notify",
       "requireLocalPort": true
     }
   },
